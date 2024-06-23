@@ -78,3 +78,7 @@ need an extra speed boost ingredient from the game. The game has a limited numbe
 boosts i.e. only 2 speed boosts that can be used by any two ghosts. Each speed boost can only boost
 one ghost at a time. Students will need to ensure that all faster ghosts get the speed boosts they
 need.<br/><br/>
+
+# How to Run
+1. Extract files from the zip files.
+2. Compile and Run the object file.<br/><br/>
